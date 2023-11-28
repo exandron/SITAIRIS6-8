@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.Header {
+    width: 100%;
+    height: 110px;
+    text-align: center;
+
+}
+
+.center{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.Nav{
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Aside{
+    flex-basis: 15%;
+}
+
+h2{
+    font-size: 1.0em;
+    color:black;
+}
+h1{
+    font-size: 3.5em;
+    color:aliceblue;
+}
+
+.block{
+    border: 1px solid;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+    text-align: left;
+}
+
+h3{
+    font-size: 2.0em;
+    color:black;
+}
+
+.Table {
+    background-color: rgba(136, 209, 248, 0.566);
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+}
+
+th {
+    padding: 5px;
+    border: 1px solid rgb(19, 59, 99);
+    border-radius: 5px 5px 5px 5px;
+    background-color: white;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid rgb(19, 59, 99);
+    border-radius: 5px 5px 5px 5px;
+    background-color: white;
+
+}
+
+.text{
+    font-size: 1.3em;
+    color:black;
+}

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player>
+        <name>Иван Иванов</name>
+        <age>25</age>
+        <gender>Мужской</gender>
+        <sport>Футбол</sport>
+    </player>
+    <player>
+        <name>Анна Смирнова</name>
+        <age>28</age>
+        <gender>Женский</gender>
+        <sport>Теннис</sport>
+    </player>
+    <player>
+        <name>Михаил Петров</name>
+        <age>30</age>
+        <gender>Мужской</gender>
+        <sport>Баскетбол</sport>
+    </player>
+    <player>
+        <name>Екатерина Сидорова</name>
+        <age>23</age>
+        <gender>Женский</gender>
+        <sport>Бадминтон</sport>
+    </player>
+    <player>
+        <name>Алексей Козлов</name>
+        <age>27</age>
+        <gender>Мужской</gender>
+        <sport>Хоккей</sport>
+    </player>
+    <player>
+        <name>Ольга Николаева</name>
+        <age>31</age>
+        <gender>Женский</gender>
+        <sport>Волейбол</sport>
+    </player>
+    <player>
+        <name>Дмитрий Егоров</name>
+        <age>29</age>
+        <gender>Мужской</gender>
+        <sport>Гольф</sport>
+    </player>
+    <player>
+        <name>Светлана Кузнецова</name>
+        <age>26</age>
+        <gender>Женский</gender>
+        <sport>Плавание</sport>
+    </player>
+    <player>
+        <name>Максим Морозов</name>
+        <age>24</age>
+        <gender>Мужской</gender>
+        <sport>Теннис</sport>
+    </player>
+    <player>
+        <name>Анастасия Иванова</name>
+        <age>22</age>
+        <gender>Женский</gender>
+        <sport>Баскетбол</sport>
+    </player>
+    <player>
+        <name>Иван Иванов</name>
+        <age>25</age>
+        <gender>Мужской</gender>
+        <sport>Футбол</sport>
+    </player>
+    <player>
+        <name>Анна Смирнова</name>
+        <age>28</age>
+        <gender>Женский</gender>
+        <sport>Теннис</sport>
+    </player>
+    <player>
+        <name>Михаил Петров</name>
+        <age>30</age>
+        <gender>Мужской</gender>
+        <sport>Баскетбол</sport>
+    </player>
+    <player>
+        <name>Екатерина Сидорова</name>
+        <age>23</age>
+        <gender>Женский</gender>
+        <sport>Бадминтон</sport>
+    </player>
+    <player>
+        <name>Алексей Козлов</name>
+        <age>27</age>
+        <gender>Мужской</gender>
+        <sport>Хоккей</sport>
+    </player>
+    <player>
+        <name>Ольга Николаева</name>
+        <age>31</age>
+        <gender>Женский</gender>
+        <sport>Волейбол</sport>
+    </player>
+    <player>
+        <name>Дмитрий Егоров</name>
+        <age>29</age>
+        <gender>Мужской</gender>
+        <sport>Гольф</sport>
+    </player>
+    <player>
+        <name>Светлана Кузнецова</name>
+        <age>26</age>
+        <gender>Женский</gender>
+        <sport>Плавание</sport>
+    </player>
+    <player>
+        <name>Максим Морозов</name>
+        <age>24</age>
+        <gender>Мужской</gender>
+        <sport>Теннис</sport>
+    </player>
+    <player>
+        <name>Анастасия Иванова</name>
+        <age>22</age>
+        <gender>Женский</gender>
+        <sport>Баскетбол</sport>
+    </player>
+</players>
